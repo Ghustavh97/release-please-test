@@ -1,6 +1,6 @@
 {
   "name": "g97-release-please-test",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Test release please",
   "main": "index.js",
   "scripts": {
