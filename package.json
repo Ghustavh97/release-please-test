@@ -1,0 +1,22 @@
+{
+  "name": "g97-release-please-test",
+  "version": "1.0.0",
+  "description": "Test release please",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghustavh97/release-please-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghustavh97/release-please-test/issues"
+  },
+  "homepage": "https://github.com/Ghustavh97/release-please-test#readme"
+}
